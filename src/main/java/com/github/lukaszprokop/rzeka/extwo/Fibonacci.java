@@ -1,6 +1,9 @@
 package com.github.lukaszprokop.rzeka.extwo;
 
-public class Fibonacci {
+/**
+ * Następne zadanie {@link com.github.lukaszprokop.rzeka.exthree.Letters}
+ */
+class Fibonacci {
     public static void main(String[] args) {
         // fibo(5) powinno zwrócić 7 (4+3)
         System.out.println(fibo(5));

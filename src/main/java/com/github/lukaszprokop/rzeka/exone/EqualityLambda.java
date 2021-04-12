@@ -1,5 +1,8 @@
 package com.github.lukaszprokop.rzeka.exone;
 
+/**
+ * następne zadanie {@link com.github.lukaszprokop.rzeka.extwo.Fibonacci}
+ */
 class EqualityLambda {
 
     //TODO: Napraw program nie zmieniając metody 'main()'
